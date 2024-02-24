@@ -1,6 +1,7 @@
 body{
     background-color: lavender; 
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 header{
     background-color: lavender;
@@ -9,6 +10,14 @@ header{
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
+}
+h1{
+    background-color: lavender;
+    color: rgb(128, 92, 136);
+    text-align: left;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
 p{
     background-color: lavender;
@@ -19,13 +28,13 @@ p{
 nav {
     background-color: lavender;
     color: rgb(128, 92, 136);
-    text-align: center;
+    /* text-align: center; */
     margin: 0 auto;
 }
 nav a{
     background-color: lavender;
     color: rgb(128, 92, 136);
-    text-align: center;
+    /* text-align: center; */
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
@@ -38,7 +47,7 @@ nav a{
     width: 400px;
     height: auto;
     text-align: left;
-    /* margin-left: 20px;  */
+    margin-left: 100px; 
     margin-right: 100px;
 }
 .alignLeft {
