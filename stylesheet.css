@@ -50,38 +50,36 @@ nav a{
     margin-left: 50px;
     /* margin-right: 100px; */
 }
-.alignLeft {
-    text-align: left;
-    /* margin-left: 20px;  */
-    margin-right: 100px;
-}
-.alignCenter {
-    text-align: center;
-    margin-left: 100px; 
-}
-.alignRight {
-    text-align: right;
-    margin-right: 100px; 
-    /* margin-left: 20px; */
-}
 section {
     background-color: lavender;
     color: rgb(128, 92, 136);
     padding: 40px;
     margin: 0 auto;
-    display: inline;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
+
 footer {
     background-color: lavender;
     color: rgb(128, 92, 136);
-    /* text-align: center; */
-    bottom: 0;
     width: 100%;
     margin: 0 auto;
-    display: inline;
 }
+
+.alignLeft {
+    text-align: left;
+    margin-right: 100px;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.alignRight {
+    text-align: right;
+    margin-right: 100px;
+}
+
 .container {
     text-align: center;
 }
