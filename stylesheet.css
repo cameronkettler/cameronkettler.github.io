@@ -1,9 +1,10 @@
 body{
     background-color: lavender; 
     text-align: center;
+    margin: 0 auto;
 }
 header{
-    background-color: black;
+    background-color: rgb(128, 92, 136);
     color: black;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -11,12 +12,12 @@ header{
 }
 nav {
     background-color: lavender;
-    color: black;
+    color: rgb(128, 92, 136);
     text-align: center;
 }
 nav a{
     background-color: lavender;
-    color: black;
+    color: rgb(128, 92, 136);
     text-align: center;
 }
 section {
@@ -24,7 +25,7 @@ section {
 }
 footer {
     background-color: lavender;
-    color: black;
+    color: rgb(128, 92, 136);
     text-align: center;
     position: fixed;
     bottom: 0;
