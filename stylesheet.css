@@ -29,13 +29,11 @@ nav {
     background-color: lavender;
     color: rgb(128, 92, 136);
     /* text-align: center; */
-    margin: 0 auto;
 }
 nav a{
     background-color: lavender;
     color: rgb(128, 92, 136);
     /* text-align: center; */
-    margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
