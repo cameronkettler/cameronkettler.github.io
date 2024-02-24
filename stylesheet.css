@@ -5,7 +5,7 @@ body{
 header{
     background-color: lavender;
     color: rgb(128, 92, 136);
-    text-align: left;
+    text-align: center;
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
@@ -42,15 +42,15 @@ nav a{
 .alignLeft img {
     float: left;
     /* margin-left: 20px;  */
-    margin-right: 20px;
+    margin-right: 100px;
 }
 .alignCenter img {
     float: center;
-    margin-left: 20px; 
+    margin-left: 100px; 
 }
 .alignRight img {
     float: right;
-    margin-right: 20px; 
+    margin-right: 100px; 
     /* margin-left: 20px; */
 }
 section {
