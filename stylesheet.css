@@ -41,7 +41,7 @@ nav a{
 }
 .alignLeft img {
     float: left;
-    margin-left: 20px; 
+    /* margin-left: 20px;  */
     margin-right: 20px;
 }
 .alignCenter img {
@@ -51,7 +51,7 @@ nav a{
 .alignRight img {
     float: right;
     margin-right: 20px; 
-    margin-left: 20px;
+    /* margin-left: 20px; */
 }
 section {
     background-color: lavender;
