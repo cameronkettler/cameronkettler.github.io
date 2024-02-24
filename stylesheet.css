@@ -13,9 +13,14 @@ header{
 p{
     background-color: lavender;
     color: rgb(128, 92, 136);
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+}
+p2{
+    background-color: lavender;
+    color: rgb(128, 92, 136);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
 }
 nav {
     background-color: lavender;
@@ -35,23 +40,23 @@ nav a{
     width: 300px;
     height: auto;
 }
-.firstImage img{
+.firstImage {
     width: 400px;
     height: auto;
     text-align: left;
     /* margin-left: 20px;  */
     margin-right: 100px;
 }
-.alignLeft img {
+.alignLeft {
     text-align: left;
     /* margin-left: 20px;  */
     margin-right: 100px;
 }
-.alignCenter img {
+.alignCenter {
     text-align: center;
     margin-left: 100px; 
 }
-.alignRight img {
+.alignRight {
     text-align: right;
     margin-right: 100px; 
     /* margin-left: 20px; */
@@ -68,7 +73,7 @@ section {
 footer {
     background-color: lavender;
     color: rgb(128, 92, 136);
-    text-align: center;
+    /* text-align: center; */
     bottom: 0;
     width: 100%;
     margin: 0 auto;
