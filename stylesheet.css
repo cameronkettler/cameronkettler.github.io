@@ -29,28 +29,29 @@ nav a{
     display: inline;
 }
 img.resize {
-    width: 100px;
+    width: 250px;
     height: auto;
+    margin: 0 auto;
 }
-/* Additional styles for specific sections */
+
 #AboutMe img.resize {
-    width: 200px; /* Set width to 200 pixels */
-    height: auto; /* Maintain aspect ratio */
+    width: 250px;
+    height: auto; 
 }
 
 #Projects img.resize {
-    width: 150px; /* Set width to 150 pixels */
-    height: auto; /* Maintain aspect ratio */
+    width: 250px;
+    height: auto;
 }
 
 #Hobbies img.resize {
-    width: 120px; /* Set width to 120 pixels */
-    height: auto; /* Maintain aspect ratio */
+    width: 250px;
+    height: auto;
 }
 
 #ContactInfo img.resize {
-    width: 100px; /* Set width to 100 pixels */
-    height: auto; /* Maintain aspect ratio */
+    width: 250px;
+    height: auto;
 }
 section {
     padding: 40px;
