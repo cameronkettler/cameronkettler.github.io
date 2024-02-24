@@ -44,7 +44,6 @@ nav a{
 .firstImage {
     width: 400px;
     height: auto;
-    text-align: left;
     margin-left: 50px;
     /* margin-right: 100px; */
 }
@@ -65,16 +64,16 @@ footer {
 }
 
 .alignLeft {
-    text-align: left;
+    float: left;
     margin-right: 100px;
 }
 
 .alignCenter {
-    text-align: center;
+    float: center;
 }
 
 .alignRight {
-    text-align: right;
+    float: right;
     margin-right: 100px;
 }
 
