@@ -15,7 +15,7 @@ h1{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: left;
-    margin-left: 45px;
+    margin-left: 50px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
 }
@@ -23,7 +23,7 @@ h2{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: left;
-    margin-left: 200px;
+    /* margin-left: 200px; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
 }
@@ -79,6 +79,11 @@ footer {
 .alignRight {
     float: right;
     margin-left: 20px;
+}
+
+.alignRightDiv {
+    float: right;
+    margin-left: 200px;
 }
 
 .container {
