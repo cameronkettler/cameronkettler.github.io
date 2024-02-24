@@ -19,6 +19,14 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
 }
+h2{
+    background-color: lavender;
+    color: rgb(128, 92, 136);
+    text-align: left;
+    margin-right: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
 p{
     background-color: lavender;
     color: rgb(128, 92, 136);
