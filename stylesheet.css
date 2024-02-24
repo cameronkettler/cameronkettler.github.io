@@ -1,7 +1,10 @@
 body{
     background-color: lavender; 
     text-align: center;
-    margin: 0 auto;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 header{
     background-color: lavender;
