@@ -28,11 +28,25 @@ nav a{
     display: inline;
 }
 img {
-    max-width: 25%;
-    max-height: 25%;
     display: block;
     margin: 0 auto; 
     display: inline;  
+}
+#About\ Me img {
+    width: 100px; /* Set width to 200 pixels */
+    height: auto; /* Maintain aspect ratio */
+}
+#Projects img {
+    width: 100px; /* Set width to 200 pixels */
+    height: auto; /* Maintain aspect ratio */
+}
+#Hobbies img {
+    width: 100px; /* Set width to 200 pixels */
+    height: auto; /* Maintain aspect ratio */
+}
+#Contact\ Info img {
+    width: 100px; /* Set width to 200 pixels */
+    height: auto; /* Maintain aspect ratio */
 }
 section {
     padding: 40px;
