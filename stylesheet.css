@@ -41,6 +41,18 @@ nav a{
 .firstImage img{
     width: 400px;
     height: auto;
+}
+.alignLeft img {
+    margin: 0 auto;
+    float: left;
+    margin-left: 10px; 
+}
+.alignCenter img {
+    margin: 0 auto;
+    float: center;
+    margin-left: 10px; 
+}
+.alignRight img {
     margin: 0 auto;
     float: right;
     margin-left: 10px; 
