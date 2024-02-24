@@ -35,7 +35,6 @@ nav a{
     font-size: 20px;
 }
 .resize {
-    display: block;
     width: 300px;
     height: auto;
     margin: 0 auto;
@@ -59,6 +58,20 @@ footer {
     width: 100%;
     margin: 0 auto;
     display: inline;
+}
+.container {
+    text-align: center;
+}
+
+.container img {
+    display: block;
+    margin: 0 auto;
+}
+
+.container p {
+    font-size: 16px;
+    color: #333;
+    margin-top: 10px;
 }
 
 
