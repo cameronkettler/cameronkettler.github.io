@@ -38,6 +38,9 @@ nav a{
 .firstImage img{
     width: 500px;
     height: auto;
+    align-items: left;
+    /* margin-left: 20px;  */
+    margin-right: 100px;
 }
 .alignLeft img {
     align-items: left;
