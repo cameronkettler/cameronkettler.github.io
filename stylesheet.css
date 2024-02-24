@@ -2,6 +2,11 @@ body{
     background-color: lavender; 
     text-align: center;
     margin: 0;
+    display: inline-block;
+    text-align: center; 
+    margin-left: 50%; 
+    margin-right: 50%; 
+    overflow: visible; 
 }
 header{
     background-color: lavender;
@@ -10,21 +15,41 @@ header{
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 80px;
+    display: inline-block;
+    text-align: center; 
+    margin-left: 50%; 
+    margin-right: 50%; 
+    overflow: visible; 
 }
 nav {
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: center;
     margin: 0 auto;
+    display: inline-block;
+    text-align: center; 
+    margin-left: 50%; 
+    margin-right: 50%; 
+    overflow: visible; 
 }
 nav a{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: center;
     margin: 0 auto;
+    display: inline-block;
+    text-align: center; 
+    margin-left: 50%; 
+    margin-right: 50%; 
+    overflow: visible; 
 }
 section {
     padding: 40px;
+    display: inline-block;
+    text-align: center; 
+    margin-left: 50%; 
+    margin-right: 50%; 
+    overflow: visible; 
 }
 footer {
     background-color: lavender;
@@ -34,13 +59,10 @@ footer {
     bottom: 0;
     width: 100%;
     margin: 0 auto;
+    display: inline-block;
+    text-align: center; 
+    margin-left: 50%; 
+    margin-right: 50%; 
+    overflow: visible; 
 }
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
 
