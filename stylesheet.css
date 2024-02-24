@@ -1,3 +1,31 @@
-body {background-color: lightblue; text-align: center;}
-h1 {color: blue; font-size: 40px;}
-p1 {font-family:Georgia, 'Times New Roman', Times, serif; font-size: 20px;}
+body{
+    background-color: lavender; 
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+nav {
+    background-color: lavender;
+    color: black;
+    text-align: center;
+}
+nav a{
+    background-color: lavender;
+    color: black;
+    text-align: center;
+}
+footer {
+    background-color: lavender;
+    color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
