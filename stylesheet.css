@@ -7,7 +7,7 @@ body{
 header{
     background-color: lavender;
     color: rgb(128, 92, 136);
-    text-align: center;
+    text-align: left;
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
@@ -16,7 +16,6 @@ p{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: center;
-    margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
@@ -39,7 +38,13 @@ nav a{
     height: auto;
     margin: 0 auto;
 }
-
+.firstImage img{
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    float: right;
+    margin-left: 10px; 
+}
 section {
     background-color: lavender;
     color: rgb(128, 92, 136);
