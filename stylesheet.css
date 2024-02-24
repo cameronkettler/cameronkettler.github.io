@@ -4,24 +4,27 @@ body{
     margin: 0 auto;
 }
 header{
-    background-color: rgb(128, 92, 136);
-    color: black;
+    background-color: lavender;
+    color: rgb(128, 92, 136);
     text-align: center;
+    margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
+    font-size: 80px;
 }
 nav {
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: center;
+    margin: 0 auto;
 }
 nav a{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: center;
+    margin: 0 auto;
 }
 section {
-    padding: 20px;
+    padding: 40px;
 }
 footer {
     background-color: lavender;
@@ -30,6 +33,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    margin: 0 auto;
 }
 
 
