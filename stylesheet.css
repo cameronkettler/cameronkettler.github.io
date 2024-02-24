@@ -33,6 +33,12 @@ p{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
+pre{
+    background-color: lavender;
+    color: rgb(128, 92, 136);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
 nav {
     background-color: lavender;
     color: rgb(128, 92, 136);
