@@ -1,24 +1,24 @@
 body{
     background-color: lavender; 
     font-family: 'Times New Roman', Times, serif;
-    /* text-align: center; */
+    text-align: center;
 }
 header{
     background-color: lavender;
     color: rgb(128, 92, 136);
-    margin: 0 auto;
+    /* margin: 0 auto; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
     margin-left: 40px;
 }
-/* h1{
+h1{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: left;
-    margin-left: 100px;
+    margin-left: 40px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-} */
+}
 p{
     background-color: lavender;
     color: rgb(128, 92, 136);
@@ -53,7 +53,7 @@ section {
     background-color: lavender;
     color: rgb(128, 92, 136);
     padding: 40px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
