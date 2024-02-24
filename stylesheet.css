@@ -19,6 +19,9 @@ nav a{
     color: black;
     text-align: center;
 }
+section {
+    padding: 20px;
+}
 footer {
     background-color: lavender;
     color: black;
