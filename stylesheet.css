@@ -1,7 +1,7 @@
 body{
     background-color: lavender; 
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+    /* text-align: center; */
 }
 header{
     background-color: lavender;
@@ -15,9 +15,9 @@ h1{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: left;
-    margin-left: 75px;
+    margin-left: 100px;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 40px;
 }
 p{
     background-color: lavender;
