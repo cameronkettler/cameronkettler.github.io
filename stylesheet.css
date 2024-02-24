@@ -32,23 +32,23 @@ nav a{
     text-align: center;
     margin: 0 auto;
 }
-img.resize {
+.resize {
     width: 250px;
     height: auto;
     margin: 0 auto;
 }
 
-#AboutMe img.resize {
+#AboutMe img {
     width: 250px;
     height: auto; 
 }
 
-#Projects img.resize {
+#Projects img {
     width: 250px;
     height: auto;
 }
 
-#Hobbies img.resize {
+#Hobbies img {
     width: 250px;
     height: auto;
 }
