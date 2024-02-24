@@ -40,16 +40,16 @@ nav a{
     height: auto;
 }
 .alignLeft img {
-    float: left;
+    align-items: left;
     /* margin-left: 20px;  */
     margin-right: 100px;
 }
 .alignCenter img {
-    float: center;
+    align-items: center;
     margin-left: 100px; 
 }
 .alignRight img {
-    float: right;
+    align-items: right;
     margin-right: 100px; 
     /* margin-left: 20px; */
 }
