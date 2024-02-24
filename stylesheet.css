@@ -10,7 +10,7 @@ header{
     text-align: center;
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 60px;
+    font-size: 40px;
 }
 p{
     background-color: lavender;
@@ -32,7 +32,7 @@ nav a{
     text-align: center;
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
+    font-size: 10px;
 }
 .resize {
     width: 350px;
@@ -40,25 +40,14 @@ nav a{
     margin: 0 auto;
 }
 
-#AboutMe img {
-    width: 250px;
-    height: auto; 
-}
-
-#Projects img {
-    width: 250px;
-    height: auto;
-}
-
-#Hobbies img {
-    width: 250px;
-    height: auto;
-}
-
 section {
+    background-color: lavender;
+    color: rgb(128, 92, 136);
     padding: 40px;
     margin: 0 auto;
     display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 footer {
     background-color: lavender;
@@ -69,11 +58,6 @@ footer {
     width: 100%;
     margin: 0 auto;
     display: inline;
-}
-
-.resize {
-    width: 100px;
-    height: auto;
 }
 
 
