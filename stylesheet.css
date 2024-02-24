@@ -11,22 +11,26 @@ header{
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 80px;
+}
+p{
+    background-color: lavender;
+    color: rgb(128, 92, 136);
+    text-align: center;
     margin: 0 auto;
-    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
 }
 nav {
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: center;
     margin: 0 auto;
-    display: inline;
 }
 nav a{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: center;
     margin: 0 auto;
-    display: inline;
 }
 img.resize {
     width: 250px;
