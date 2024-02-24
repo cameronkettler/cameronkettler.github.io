@@ -38,23 +38,22 @@ nav a{
     height: auto;
 }
 .firstImage img{
-    width: 400px;
+    width: 500px;
     height: auto;
 }
 .alignLeft img {
-    margin: 0 auto;
     float: left;
-    margin-left: 10px; 
+    margin-left: 20px; 
+    margin-right: 20px;
 }
 .alignCenter img {
-    margin: 0 auto;
     float: center;
-    margin-left: 10px; 
+    margin-left: 20px; 
 }
 .alignRight img {
-    margin: 0 auto;
     float: right;
-    margin-left: 10px; 
+    margin-left: 20px; 
+    margin-left: 20px;
 }
 section {
     background-color: lavender;
