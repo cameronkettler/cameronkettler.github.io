@@ -15,7 +15,7 @@ h1{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: left;
-    margin-left: 55px;
+    margin-left: 135px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
 }
@@ -51,7 +51,7 @@ nav a{
 .firstImage {
     width: 350px;
     height: auto;
-    margin-left: 20px;
+    margin-left: 100px;
     border: 10px rgb(128, 92, 136);
     /* margin-right: 100px; */
 }
