@@ -9,16 +9,16 @@ header{
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
-h1{
+/* h1{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: left;
     margin-left: 100px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-}
+} */
 p{
     background-color: lavender;
     color: rgb(128, 92, 136);
@@ -67,16 +67,12 @@ footer {
 
 .alignLeft {
     float: left;
-    margin-left: 50px;
-}
-
-.alignCenter {
-    float: center;
+    margin-right: 20px;
 }
 
 .alignRight {
     float: right;
-    margin-right: 50px;
+    margin-left: 20px;
 }
 
 .container {
@@ -84,14 +80,14 @@ footer {
 }
 
 .container img {
-    display: block;
-    margin: 0 auto;
+    display: inline-block;
+    margin-bottom: 10px;
 }
 
 .container p {
     font-size: 16px;
     color: #333;
-    margin-top: 10px;
+    margin-top: 0;
 }
 
 
