@@ -2,6 +2,7 @@ body{
     background-color: lavender; 
     text-align: center;
     margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
 }
 header{
     background-color: lavender;
@@ -27,25 +28,28 @@ nav a{
     margin: 0 auto;
     display: inline;
 }
-img {
-    display: block;
-    margin: 0 auto; 
-    display: inline;  
+img.resize {
+    width: 100px;
+    height: auto;
 }
-#About\ Me img {
-    width: 100px; /* Set width to 200 pixels */
+/* Additional styles for specific sections */
+#AboutMe img.resize {
+    width: 200px; /* Set width to 200 pixels */
     height: auto; /* Maintain aspect ratio */
 }
-#Projects img {
-    width: 100px; /* Set width to 200 pixels */
+
+#Projects img.resize {
+    width: 150px; /* Set width to 150 pixels */
     height: auto; /* Maintain aspect ratio */
 }
-#Hobbies img {
-    width: 100px; /* Set width to 200 pixels */
+
+#Hobbies img.resize {
+    width: 120px; /* Set width to 120 pixels */
     height: auto; /* Maintain aspect ratio */
 }
-#Contact\ Info img {
-    width: 100px; /* Set width to 200 pixels */
+
+#ContactInfo img.resize {
+    width: 100px; /* Set width to 100 pixels */
     height: auto; /* Maintain aspect ratio */
 }
 section {
