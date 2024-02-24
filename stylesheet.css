@@ -50,4 +50,9 @@ footer {
     display: inline;
 }
 
+.resize {
+    width: 100px;
+    height: auto;
+}
+
 
