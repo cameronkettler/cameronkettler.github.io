@@ -36,23 +36,23 @@ nav a{
     height: auto;
 }
 .firstImage img{
-    width: 500px;
+    width: 400px;
     height: auto;
-    align-items: left;
+    text-align: left;
     /* margin-left: 20px;  */
     margin-right: 100px;
 }
 .alignLeft img {
-    align-items: left;
+    text-align: left;
     /* margin-left: 20px;  */
     margin-right: 100px;
 }
 .alignCenter img {
-    align-items: center;
+    text-align: center;
     margin-left: 100px; 
 }
 .alignRight img {
-    align-items: right;
+    text-align: right;
     margin-right: 100px; 
     /* margin-left: 20px; */
 }
