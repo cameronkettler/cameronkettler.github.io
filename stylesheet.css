@@ -6,10 +6,10 @@ body{
 header{
     background-color: lavender;
     color: rgb(128, 92, 136);
+    text-align: center;
     margin: 0 auto;
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    margin-left: 50px;
 }
 h1{
     background-color: lavender;
@@ -34,6 +34,7 @@ nav {
 nav a{
     background-color: lavender;
     color: rgb(128, 92, 136);
+    /* text-align: center; */
     margin-left: 50px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
