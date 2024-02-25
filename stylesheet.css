@@ -56,7 +56,7 @@ a:hover{
     width: 350px;
     height: auto;
     border: 10px rgb(128, 92, 136);
-    /* margin-right: 100px; */
+    border: 10px solid rgb(128, 92, 136);
 }
 section {
     background-color: lavender;
