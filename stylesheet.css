@@ -44,6 +44,9 @@ nav a{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
+a:hover{
+    color: palevioletred
+}
 .resize {
     width: 400px;
     height: auto;
