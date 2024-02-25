@@ -14,7 +14,7 @@ header{
 h1{
     background-color: lavender;
     color: rgb(128, 92, 136);
-    text-align: left;
+    text-align: center;
     /* margin-left: 85px; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
@@ -26,12 +26,13 @@ h2{
     /* margin-left: 200px; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
+    border-style: double;
 }
 p{
     background-color: lavender;
     color: rgb(128, 92, 136);
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: 20px;
 }
 nav {
     background-color: lavender;
