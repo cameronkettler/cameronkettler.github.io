@@ -15,7 +15,7 @@ h1{
     background-color: lavender;
     color: rgb(128, 92, 136);
     text-align: left;
-    margin-left: 85px;
+    /* margin-left: 85px; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
 }
