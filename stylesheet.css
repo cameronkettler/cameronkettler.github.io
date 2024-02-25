@@ -17,7 +17,7 @@ h1{
     text-align: center;
     /* margin-left: 85px; */
     font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
+    font-size: 60px;
 }
 h2{
     background-color: lavender;
@@ -25,8 +25,17 @@ h2{
     text-align: center;
     /* margin-left: 200px; */
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 40px;
     border-style: double;
+}
+h3{
+    background-color: lavender;
+    color: rgb(128, 92, 136);
+    text-align: center;
+    /* margin-left: 200px; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-style: double;  
 }
 p{
     background-color: lavender;
