@@ -54,7 +54,6 @@ a:hover{
 .firstImage {
     width: 350px;
     height: auto;
-    margin-left: 50px;
     border: 10px rgb(128, 92, 136);
     /* margin-right: 100px; */
 }
