@@ -35,7 +35,7 @@ h3{
     /* margin-left: 200px; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-    border-style: double;  
+    border-style: dashed;  
 }
 p{
     background-color: lavender;
