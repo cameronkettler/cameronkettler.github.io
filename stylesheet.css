@@ -35,7 +35,7 @@ h3{
     /* margin-left: 200px; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-    border: 5px solid rgb(128, 92, 136);  
+    border: 2px solid rgb(128, 92, 136);  
 }
 p{
     background-color: lavender;
@@ -70,6 +70,9 @@ a:hover{
 .firstImage {
     width: 350px;
     height: auto;
+    border: 10px double rgb(128, 92, 136);
+}
+.addBorders {
     border: 10px solid rgb(128, 92, 136);
 }
 section {
