@@ -54,6 +54,12 @@ nav a{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
+a{
+    background-color: lavender;
+    color: rgb(128, 92, 136);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
 a:hover{
     color: palevioletred
 }
