@@ -26,7 +26,7 @@ h2{
     /* margin-left: 200px; */
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    border-style: 10px double rgb(128, 92, 136);
+    border: 10px double rgb(128, 92, 136);
 }
 h3{
     background-color: lavender;
