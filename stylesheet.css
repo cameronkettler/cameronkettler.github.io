@@ -69,7 +69,7 @@ a:hover{
 .addBorders {
     border: 5px solid rgb(128, 92, 136);
 }
-#section {
+section {
     background-color: lavender;
     color: rgb(128, 92, 136);
     padding: 40px;
