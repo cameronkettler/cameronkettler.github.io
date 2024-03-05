@@ -61,7 +61,7 @@ a:hover{
     width: 400px;
     height: auto;
 }
-.firstImage {
+#firstImage {
     width: 350px;
     height: auto;
     border: 10px double rgb(128, 92, 136);
